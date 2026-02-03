@@ -27,4 +27,4 @@ dist/
 
 .claude
 package-lock.json
-bun-lock.json
+bun.lock
